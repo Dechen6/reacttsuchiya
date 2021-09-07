@@ -391,7 +391,11 @@ p {
 }
 
 /* stcicky css */
-
+.nav{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
 .header_area.sticky {
     background-color: #884bdf;
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
