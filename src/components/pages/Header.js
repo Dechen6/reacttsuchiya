@@ -16,7 +16,7 @@ class Header extends React.Component{
                 <div className="menu_area">
                   <nav className="navbar navbar-expand-lg navbar-light">
                     {/* Logo */}
-                    <a className="navbar-brand"> <img src="assets/img/1.png" alt="" /><img style={{width: '50%', marginLeft: '2rem'}} src="assets/img/word.png" alt="" /> </a>
+                    <a className="navbar-brand"> <img src="images/1.png" alt="" /><img style={{width: '50%', marginLeft: '2rem'}} src="images/word.png" alt="" /> </a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#ca-navbar" aria-controls="ca-navbar" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon" /></button>
                     {/* Menu Area */}
                     <div style={{backgroundColor: '#373A40', position: 'relative', left: '-20px'}} className="collapse navbar-collapse" id="ca-navbar">
