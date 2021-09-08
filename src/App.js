@@ -3,6 +3,7 @@ import './App.css';
 import Home from './components/pages/Home';
 import Header from './components/pages/Header';
 import Footer from './components/pages/Footer';
+import GoTop from './components/pages/GoTop';
 import './components/pages/style.css'
 
 
@@ -12,7 +13,9 @@ function App() {
     <div>
     <Header/>
     <Home/>
+  <GoTop/>
     <Footer/>
+  
     </div>
     
   );

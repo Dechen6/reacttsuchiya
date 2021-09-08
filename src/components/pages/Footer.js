@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 import './style.css';
 import './responsive.css'
 
@@ -48,6 +49,7 @@ class Footer extends React.Component{
           </div>
         </footer>
         {/* ***** Footer Area end ***** */}
+        
         </div>
         )    
 }
